@@ -56,7 +56,7 @@ main {
     background: #fff;
     margin: 8px;
     transition: 0.25s;
-    opcity: 1.0;
+    color: #fff;
 }
 
 @media (min-width: 0px) {
