@@ -28,7 +28,7 @@
         </nav>
     </header>
     <main>
-        <script src="jbarramobile.js"></script>
+        <script src="package.json"></script>
     </main>
 </body>
 
