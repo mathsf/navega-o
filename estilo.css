@@ -53,9 +53,10 @@ main {
 .menu-movel div {
     width: 32px;
     height: 2px;
-    background: rgb(255, 255, 255);
+    background: #fff;
     margin: 8px;
     transition: 0.25s;
+    opcity: 1.0;
 }
 
 @media (min-width: 0px) {
